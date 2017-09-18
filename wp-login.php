@@ -9,19 +9,19 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Politics &#038; Power Master Class &lsaquo; Acceder</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' href='/wp-admin/load-styles.php?c=1&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' href='/https://masterclass2017.github.io/diplomadoMC/wp-admin/load-styles.php?c=1&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.8.1' type='text/css' media='all' />
 <meta name='robots' content='noindex,follow' />
 	<meta name="viewport" content="width=device-width" />
-	<link rel="icon" href="/wp-content/uploads/2017/09/cropped-icono-1-32x32.png" sizes="32x32" />
-<link rel="icon" href="/wp-content/uploads/2017/09/cropped-icono-1-192x192.png" sizes="192x192" />
-<link rel="apple-touch-icon-precomposed" href="/wp-content/uploads/2017/09/cropped-icono-1-180x180.png" />
-<meta name="msapplication-TileImage" content="http://127.0.0.1/wp/wp-content/uploads/2017/09/cropped-icono-1-270x270.png" />
+	<link rel="icon" href="/https://masterclass2017.github.io/diplomadoMC/wp-content/uploads/2017/09/cropped-icono-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="/https://masterclass2017.github.io/diplomadoMC/wp-content/uploads/2017/09/cropped-icono-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="/https://masterclass2017.github.io/diplomadoMC/wp-content/uploads/2017/09/cropped-icono-1-180x180.png" />
+<meta name="msapplication-TileImage" content="/wp-content/uploads/2017/09/cropped-icono-1-270x270.png" />
 	</head>
 	<body class="login login-action-login wp-core-ui  locale-es-es">
 		<div id="login">
 		<h1><a href="https://es.wordpress.org/" title="Funciona gracias a WordPress" tabindex="-1">Politics &#038; Power Master Class</a></h1>
 	
-<form name="loginform" id="loginform" action="/wp-login.php" method="post">
+<form name="loginform" id="loginform" action="/https://masterclass2017.github.io/diplomadoMC/wp-login.php" method="post">
 	<p>
 		<label for="user_login">Nombre de usuario o dirección de correo electrónico<br />
 		<input type="text" name="log" id="user_login" class="input" value="" size="20" /></label>
@@ -33,13 +33,13 @@
 		<p class="forgetmenot"><label for="rememberme"><input name="rememberme" type="checkbox" id="rememberme" value="forever"  /> Recuérdame</label></p>
 	<p class="submit">
 		<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Acceder" />
-		<input type="hidden" name="redirect_to" value="http://127.0.0.1/wp/wp-admin/" />
+		<input type="hidden" name="redirect_to" value="/wp-admin/" />
 		<input type="hidden" name="testcookie" value="1" />
 	</p>
 </form>
 
 <p id="nav">
-	<a href="/wp-login.php?action=lostpassword">¿Has perdido tu contraseña?</a>
+	<a href="/https://masterclass2017.github.io/diplomadoMC/wp-login.php?action=lostpassword">¿Has perdido tu contraseña?</a>
 </p>
 
 <script type="text/javascript">
@@ -63,7 +63,7 @@ wp_attempt_focus();
 if(typeof wpOnload=='function')wpOnload();
 </script>
 
-	<p id="backtoblog"><a href="/">&larr; Volver a Politics &#038; Power Master Class</a></p>
+	<p id="backtoblog"><a href="/https://masterclass2017.github.io/diplomadoMC/">&larr; Volver a Politics &#038; Power Master Class</a></p>
 	
 	</div>
 

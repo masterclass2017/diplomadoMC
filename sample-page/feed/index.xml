@@ -7,8 +7,8 @@
 	>
 <channel>
 	<title>Comentarios en: Sample Page</title>
-	<atom:link href="/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/https://masterclass2017.github.io/diplomadoMC/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://masterclass2017.github.io/diplomadoMC</link>
 	<description>Diplomado en Ciencia Pol&#237;tica</description>
 	<lastBuildDate>Sun, 17 Sep 2017 18:23:15 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>

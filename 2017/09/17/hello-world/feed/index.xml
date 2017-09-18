@@ -7,8 +7,8 @@
 	>
 <channel>
 	<title>Comentarios en: Hello world!</title>
-	<atom:link href="/2017/09/17/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>/2017/09/17/hello-world/</link>
+	<atom:link href="/https://masterclass2017.github.io/diplomadoMC/2017/09/17/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://masterclass2017.github.io/diplomadoMC/2017/09/17/hello-world/</link>
 	<description>Diplomado en Ciencia Pol&#237;tica</description>
 	<lastBuildDate>Sun, 17 Sep 2017 18:23:15 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
@@ -16,10 +16,10 @@
 	<generator>https://wordpress.org/?v=4.8.1</generator>
 	<item>
 		<title>Por: A WordPress Commenter</title>
-		<link>/2017/09/17/hello-world/#comment-1</link>
+		<link>/https://masterclass2017.github.io/diplomadoMC/2017/09/17/hello-world/#comment-1</link>
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sun, 17 Sep 2017 18:23:15 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
+		<guid isPermaLink="false">/https://masterclass2017.github.io/diplomadoMC/?p=1#comment-1</guid>
 		<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
 Commenter avatars come from &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>

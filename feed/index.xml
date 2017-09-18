@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Politics &#038; Power Master Class</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/https://masterclass2017.github.io/diplomadoMC/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://masterclass2017.github.io/diplomadoMC</link>
 	<description>Diplomado en Ciencia Pol&#237;tica</description>
 	<lastBuildDate>Mon, 18 Sep 2017 19:17:28 +0000</lastBuildDate>
 	<language>es-ES</language>
@@ -19,25 +19,25 @@
 	<generator>https://wordpress.org/?v=4.8.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2017/09/cropped-icono-1-32x32.png</url>
+	<url>/https://masterclass2017.github.io/diplomadoMC/wp-content/uploads/2017/09/cropped-icono-1-32x32.png</url>
 	<title>Politics &#038; Power Master Class</title>
-	<link></link>
+	<link>/https://masterclass2017.github.io/diplomadoMC</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>/2017/09/17/hello-world/</link>
-		<comments>/2017/09/17/hello-world/#comments</comments>
+		<link>/https://masterclass2017.github.io/diplomadoMC/2017/09/17/hello-world/</link>
+		<comments>/https://masterclass2017.github.io/diplomadoMC/2017/09/17/hello-world/#comments</comments>
 		<pubDate>Sun, 17 Sep 2017 18:23:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">/https://masterclass2017.github.io/diplomadoMC/?p=1</guid>
 		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
-			<wfw:commentRss>/2017/09/17/hello-world/feed/</wfw:commentRss>
+			<wfw:commentRss>/https://masterclass2017.github.io/diplomadoMC/2017/09/17/hello-world/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 	</channel>
